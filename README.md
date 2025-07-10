@@ -31,5 +31,5 @@ A desktop GUI application built with **Python**, **Tkinter**, and **Google Trans
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Language_Translator.git
+   git clone https://github.com/Rahulgoud1234/Language_Translator.git
    cd Language_Translator
